@@ -1,4 +1,4 @@
-class RecentCounter {
+class Solution2 {
     LinkedList<Integer> que;
        public RecentCounter() {
            que=new LinkedList<>();
