@@ -1,4 +1,4 @@
-class Solution1 {
+class Solution2 {
     public int removeCoveredIntervals(int[][] intervals) {
         int n=intervals.length;
         Arrays.sort(intervals,(a,b)->{
