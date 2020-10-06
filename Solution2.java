@@ -1,4 +1,4 @@
-class Solution {
+class Solution2 {
     public int bitwiseComplement(int N) {
         String bin = Integer.toBinaryString(N);
         for(int i=0;i<bin.length();i++)
