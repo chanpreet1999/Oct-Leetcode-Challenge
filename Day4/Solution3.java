@@ -1,5 +1,3 @@
-
-
 class Solution3 {
     public int removeCoveredIntervals(int[][] intervals) {
         
