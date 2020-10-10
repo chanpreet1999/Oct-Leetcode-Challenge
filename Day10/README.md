@@ -9,7 +9,7 @@ Given an array points where points[i] = [xstart, xend], return the minimum numbe
  
 
 Example 1:
-
+ 
 Input: points = [[10,16],[2,8],[1,6],[7,12]]  
 Output: 2  
 Explanation: One way is to shoot one arrow for example at x = 6 (bursting the balloons [2,8] and [1,6]) and another arrow at x = 11 (bursting the other two balloons).
